@@ -9,7 +9,7 @@ const NavBar = () => {
         exact
         style={link}
         >Home</NavLink>
-      
+
     </div>
   );
 };
