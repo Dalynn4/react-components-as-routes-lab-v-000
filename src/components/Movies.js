@@ -2,7 +2,7 @@ import React from 'react';
 import { movies } from '../data';
 
 const Movies = () => {
-  for(const movie of {movies}){
+  for(const movie of movies){
   return (
     <div>
         {movie.title}
