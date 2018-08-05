@@ -7,7 +7,6 @@ const NavBar = () => {
       <NavLink
         to='/'
         exact
-        style={link}
         >Home</NavLink>
 
     </div>
